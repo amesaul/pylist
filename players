@@ -1,4 +1,4 @@
 #for practice slice stuff in list
 LGD=['ame','maybe','chalice','fy','xnova']
-print('the best players in LGD teams are: '+LGD[:2])
-print('the support players in LGD teams are: '+LGD[-2:])
+print('the best players in LGD teams are: '+str(LGD[:2]))
+print('the support players in LGD teams are: '+str(LGD[-2:]))
